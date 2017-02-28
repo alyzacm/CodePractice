@@ -1,4 +1,4 @@
-// Implementation of Binary Search Tree
+// Simple Implementation of Binary Search Tree
 // Design from mycodeschool
 // Includes:
 // 	insert
